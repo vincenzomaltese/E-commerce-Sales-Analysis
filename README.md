@@ -35,10 +35,17 @@ These tables were provided as Excel files, joined in Tableau to create a single,
 - **Sales by Category/Subcategory**: Highlights which categories and subcategories drive the most revenue.  
 - **Profit by Month**: Allows users to focus on specific product categories (e.g., Technology) to identify seasonal or monthly trends.
 
+![Performance by Location on Tableau Public](https://github.com/vincenzomaltese/The-Office-Store-E-commerce-Sales-Analysis/blob/main/images/Sales_Dashboard.jpg)
+
+**Explore Dashboard**: [Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/vincenzo.maltese1450/viz/CaseStudyTheOfficeStore-SalesDashboard/SalesDashboard)
 ### 2. Performance by Location
 - **Top 10 States by Sales**: Visualizes which states generate the highest revenue.  
 - **Geographical View**: Uses a map to show **Regions** (Northeast, South, Midwest, West) and the corresponding performance.  
 - **Top 10 Performing Products**: Treemap highlighting sales and profitability status.
+
+![Performance by Location on Tableau Public](https://github.com/vincenzomaltese/The-Office-Store-E-commerce-Sales-Analysis/blob/main/images/Performance%20by%20Location.jpg)
+
+**Explore Dashboard**: [Performance by Location on Tableau Public](https://public.tableau.com/app/profile/vincenzo.maltese1450/viz/CaseStudyTheOfficeStore-PerformancebyLocation/PerformancebyLocation)
 
 ## Key Insights
 
