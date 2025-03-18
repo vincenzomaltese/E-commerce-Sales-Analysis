@@ -73,8 +73,3 @@ These tables were provided as Excel files, joined in Tableau to create a single,
 - **Tableau**: For data visualization, dashboard creation, and interactive analysis.  
 - **Excel**: Data storage and initial data cleaning.  
 
-## How to View or Reproduce
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/office-store-tableau.git
