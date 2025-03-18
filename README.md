@@ -1,4 +1,4 @@
-# The Office Store - E-commerce Sales Analysis
+# E-commerce Sales Analysis
 
 This repository contains a Tableau project analyzing sales data for a fictional e-commerce company called **The Office Store**. The company specializes in **Office Supplies, Furniture, and Technology** products, serving General Consumers, Corporate, and Home Offices across the United States.
 
