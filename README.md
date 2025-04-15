@@ -1,5 +1,7 @@
 # E-Commerce Sales Analysis
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 This repository contains a Tableau project analyzing sales data for a fictional e-commerce company called **The Office Store**. The company specializes in **Office Supplies, Furniture, and Technology** products, serving General Consumers, Corporate, and Home Offices across the United States.
 
 ## Project Overview
